@@ -1,3 +1,0 @@
-import ROHIT
-
-ROHIT.make()
